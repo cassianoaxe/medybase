@@ -1,4 +1,4 @@
-# meddycanna
+# medycanna
 primeiro projeto
 
 criei 3 areas de acesso 
